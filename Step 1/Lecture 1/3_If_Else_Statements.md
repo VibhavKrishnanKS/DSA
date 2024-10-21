@@ -37,4 +37,10 @@ int main(){
 }
 ```
 
-3. Writing a basic if else program with a logic 
+3. Writing a basic if else programs with a logic  
+[Grade Example](./Examples%20for%20If%20Else/3_A_Grade_Example.cpp)   
+[Job Example](./Examples%20for%20If%20Else/3_B_Job_Example.cpp)     
+* Basically an example for the Nested-If Statement  
+[Job Example Simplfied block](./Examples%20for%20If%20Else/3_B_1_Job_Example_Simplified.cpp)
+
+

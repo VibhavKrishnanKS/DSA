@@ -18,13 +18,13 @@ int main()
   {
     cout << "Not eligible for job";
   }
-  else if (age <= 54)
-  {
-    cout << "Eligible for job";
-  }
   else if (age <= 57)
   {
-    cout << "Eligible for job, but retirement soon";
+    cout << "Eligible for job";
+    if (age >= 55)
+    {
+      cout << ", but retirement soon";
+    }
   }
   else
   {
