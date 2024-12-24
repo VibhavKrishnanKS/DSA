@@ -1,6 +1,4 @@
-# Variables in Python 
 
-1. Variables are basically **Fundamental Elements in programming** used to store data that can be **referenced and manipulated** in a program. In Python, variables are created when you assign a value to them, and they do not need explicit declaration to reserve memory space. The declaration happens automatically when you assign a value to the variable
 
 
 ## Naming Convention - how should we name a variable
